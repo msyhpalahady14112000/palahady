@@ -1,0 +1,43 @@
+
+h2 {
+    color:black;
+    font-family: arial;
+    font-style: italic;
+    font: 50px;
+}
+.img1 {
+    border-radius:150px;
+    height: 150px;
+    width: 150px;
+    
+}
+
+body {
+    background: url(bg1.webp);
+}
+
+.p1 , .p3 {
+    color:aliceblue;
+    font-size: 20px;
+    font-family: arial narrow;
+
+}
+#p2 , h3{
+    color:wheat;
+}
+h1 {
+    color:red;
+}
+
+a {
+   color:blue;
+}
+img {
+    border-bottom-right-radius: 100px;
+    height: 30px;
+    width: 100px;
+
+}
+b {
+    color:yellow;
+}
